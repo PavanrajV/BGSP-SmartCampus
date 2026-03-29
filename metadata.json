@@ -1,0 +1,9 @@
+{
+  "name": "Remix: BGSP SmartCampus",
+  "description": "An intelligent college management system for students, staff, and management to track attendance, marks, and announcements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
